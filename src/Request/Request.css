@@ -1,0 +1,83 @@
+.req{
+    position: relative;
+    z-index: 301;
+    background: chocolate;
+    block-size: 50px;
+    margin-top: 1px;
+    border-top-style: initial
+}
+ 
+
+
+.mm{
+    position: relative;
+  
+    width: 80vw; 
+
+}
+ 
+.Rsidebar{
+    
+    height: 100%;
+    background:red; 
+    width: 300px; 
+    position: fixed;
+    overflow: auto;
+   
+    
+ 
+} 
+.bady{ 
+  
+    
+    overflow: auto;
+    height: 100%;
+    width: 1170px; 
+    background:rgb(0, 4, 255); 
+    margin-left: 330px; 
+    
+}
+.Rsidebar,.bady{
+    
+    margin-top: 12px;
+    display: inline-block;
+    float: left;
+  
+
+    
+}
+.Search{
+    margin-top: 5px;
+    padding-right:400px;
+    margin-left: 4px;   
+}
+.Searchinput{
+    padding-right:200px;
+    padding-bottom:12px;
+    float: left;
+}
+.Searchbotton.Searchinput{
+    display: inline-block;
+      
+}
+.Searchbotton{   
+
+ }
+ 
+.part1{
+   width:50%;
+}
+.part2{ 
+    width:50%;
+    float:right; 
+}
+.part1,.part2{
+    background: rgb(0, 209, 185);
+    
+    display: inline-block;
+}
+.data_patient{
+    margin-top: 35px;  
+    background: rgb(0, 209, 185);
+  
+}

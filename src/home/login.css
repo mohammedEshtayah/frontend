@@ -1,0 +1,49 @@
+body, html {
+    height: 100%; 
+    margin: 0;
+     
+    
+    background-size: cover;
+    
+      /*background : url(background.jpg);*/  
+  } 
+
+ .mohammed{
+ 
+ }
+.f{ 
+  margin: 0 auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 25px;
+  padding: 110px;
+  background-color:wheat   
+  
+}
+ 
+.f input{
+    padding: 10px;
+    padding-right: 90px;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+.but-login{
+  margin-top: 20px;
+  text-align: center;
+  
+}
+.but-login button{
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: center;
+  font-size: 20px
+}
+.h{
+    color: aqua;
+    text-align: center;
+    align-items: center;
+    justify-items: end;
+}

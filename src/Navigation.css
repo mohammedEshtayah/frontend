@@ -1,0 +1,12 @@
+.bar{ 
+    
+    position: static;
+    padding-left: 3px;
+background:hsl(200, 10%, 12%);
+  
+}
+.login{   
+    position: absolute;
+    margin-right:10px;
+    right: 0%;
+  }
